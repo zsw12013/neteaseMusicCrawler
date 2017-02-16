@@ -1,5 +1,5 @@
 **网易云音乐抓取评论数**
-
+框架 ：Spring Boot ，Spring Data JPA
  - application.properties 配置参数
     
  - 运行Application 会初始化 数据表
